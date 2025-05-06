@@ -1,0 +1,380 @@
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:37: warning: redefinition of 'APPBACKUPSCREEN'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:995: warning: previous definition of 'APPBACKUPSCREEN' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:40: warning: redefinition of '_LDHLIND'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:440: warning: previous definition of '_LDHLIND' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:41: warning: redefinition of '_HTIMESL'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:409: warning: previous definition of '_HTIMESL' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:42: warning: redefinition of '_CONVOP1'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:206: warning: previous definition of '_CONVOP1' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:43: warning: redefinition of 'CONTRAST'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:709: warning: previous definition of 'CONTRAST' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:44: warning: redefinition of '_DARKLINE'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:295: warning: previous definition of '_DARKLINE' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:58: warning: redefinition of '_HOMEUP'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:407: warning: previous definition of '_HOMEUP' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:59: warning: redefinition of '_NEWLINE'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:466: warning: previous definition of '_NEWLINE' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:61: warning: redefinition of '_GRBUFCLR'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:401: warning: previous definition of '_GRBUFCLR' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:69: warning: redefinition of '_CLINE'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:181: warning: previous definition of '_CLINE' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:70: warning: redefinition of '_ILINE'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:413: warning: previous definition of '_ILINE' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:71: warning: redefinition of '_IPOINT'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:426: warning: previous definition of '_IPOINT' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:72: warning: redefinition of '_PARSEINP'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:530: warning: previous definition of '_PARSEINP' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:73: warning: redefinition of '_DIVHLBY10'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:316: warning: previous definition of '_DIVHLBY10' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:74: warning: redefinition of '_CPHLDE'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:210: warning: previous definition of '_CPHLDE' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:75: warning: redefinition of '_DISPHL'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:312: warning: previous definition of '_DISPHL' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:76: warning: redefinition of '_DIVHLBYA'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:317: warning: previous definition of '_DIVHLBYA' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:77: warning: redefinition of '_HLTIMES9'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:406: warning: previous definition of '_HLTIMES9' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:78: warning: redefinition of '_VPUTMAP'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:655: warning: previous definition of '_VPUTMAP' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:79: warning: redefinition of '_VPUTS'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:656: warning: previous definition of '_VPUTS' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:80: warning: redefinition of '_VPUTSN'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:657: warning: previous definition of '_VPUTSN' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:81: warning: redefinition of '_PUTMAP'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:563: warning: previous definition of '_PUTMAP' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:82: warning: redefinition of '_PUTS'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:566: warning: previous definition of '_PUTS' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:83: warning: redefinition of '_PUTPS'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:564: warning: previous definition of '_PUTPS' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:84: warning: redefinition of '_PUTC'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:562: warning: previous definition of '_PUTC' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:85: warning: redefinition of '_GETKEY'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:396: warning: previous definition of '_GETKEY' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:87: warning: redefinition of '_GETCSC'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:395: warning: previous definition of '_GETCSC' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:92: warning: redefinition of '_CHKFINDSYM'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:163: warning: previous definition of '_CHKFINDSYM' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:93: warning: redefinition of '_FINDSYM'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:375: warning: previous definition of '_FINDSYM' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:97: warning: redefinition of '_CREATEPROG'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:277: warning: previous definition of '_CREATEPROG' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:98: warning: redefinition of '_CREATEPROTPROG'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:278: warning: previous definition of '_CREATEPROTPROG' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:101: warning: redefinition of 'PICTOBJ'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:3715: warning: previous definition of 'PICTOBJ' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:102: warning: redefinition of 'TVARPICT'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:2917: warning: previous definition of 'TVARPICT' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:104: warning: redefinition of 'TPIC2'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:3290: warning: previous definition of 'TPIC2' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:105: warning: redefinition of 'TPIC3'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:3291: warning: previous definition of 'TPIC3' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:106: warning: redefinition of 'TPIC4'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:3292: warning: previous definition of 'TPIC4' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:107: warning: redefinition of 'TPIC5'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:3293: warning: previous definition of 'TPIC5' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:108: warning: redefinition of 'TPIC6'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:3294: warning: previous definition of 'TPIC6' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:109: warning: redefinition of 'TPIC7'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:3295: warning: previous definition of 'TPIC7' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:110: warning: redefinition of 'TPIC8'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:3296: warning: previous definition of 'TPIC8' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:111: warning: redefinition of 'TPIC9'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:3297: warning: previous definition of 'TPIC9' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:112: warning: redefinition of 'TPIC0'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:3298: warning: previous definition of 'TPIC0' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:115: warning: redefinition of '_DELVAR'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:305: warning: previous definition of '_DELVAR' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:116: warning: redefinition of '_INSERTMEM'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:416: warning: previous definition of '_INSERTMEM' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:119: warning: redefinition of 'OP1'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:728: warning: previous definition of 'OP1' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:120: warning: redefinition of 'OP2'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:730: warning: previous definition of 'OP2' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:121: warning: redefinition of 'OP3'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:733: warning: previous definition of 'OP3' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:122: warning: redefinition of 'OP4'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:735: warning: previous definition of 'OP4' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:123: warning: redefinition of 'OP5'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:737: warning: previous definition of 'OP5' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:124: warning: redefinition of 'OP6'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:739: warning: previous definition of 'OP6' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:125: warning: redefinition of 'IMATHPTR1'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:745: warning: previous definition of 'IMATHPTR1' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:126: warning: redefinition of 'IMATHPTR2'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:746: warning: previous definition of 'IMATHPTR2' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:127: warning: redefinition of 'IMATHPTR3'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:747: warning: previous definition of 'IMATHPTR3' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:128: warning: redefinition of 'IMATHPTR4'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:748: warning: previous definition of 'IMATHPTR4' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:129: warning: redefinition of 'IMATHPTR5'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:749: warning: previous definition of 'IMATHPTR5' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:130: warning: redefinition of 'PROGPTR'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:980: warning: previous definition of 'PROGPTR' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:132: warning: redefinition of 'PLOTSSCREEN'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:939: warning: previous definition of 'PLOTSSCREEN' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:133: warning: redefinition of 'SYMTABLE'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1009: warning: previous definition of 'SYMTABLE' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:134: warning: redefinition of 'CURROW'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:713: warning: previous definition of 'CURROW' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:135: warning: redefinition of 'CURCOL'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:714: warning: previous definition of 'CURCOL' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:136: warning: redefinition of 'PENCOL'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:809: warning: previous definition of 'PENCOL' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:137: warning: redefinition of 'PENROW'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:810: warning: previous definition of 'PENROW' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:138: warning: redefinition of 'CURGY'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:823: warning: previous definition of 'CURGY' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:139: warning: redefinition of 'CURGX'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:824: warning: previous definition of 'CURGX' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:140: warning: redefinition of '_PUSHREALO1'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:555: warning: previous definition of '_PUSHREALO1' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:141: warning: redefinition of '_PUSHREALO2'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:556: warning: previous definition of '_PUSHREALO2' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:142: warning: redefinition of '_PUSHREALO3'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:557: warning: previous definition of '_PUSHREALO3' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:143: warning: redefinition of '_PUSHREALO4'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:558: warning: previous definition of '_PUSHREALO4' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:144: warning: redefinition of '_PUSHREALO5'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:559: warning: previous definition of '_PUSHREALO5' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:145: warning: redefinition of '_PUSHREALO6'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:560: warning: previous definition of '_PUSHREALO6' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:146: warning: redefinition of '_FPADD'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:385: warning: previous definition of '_FPADD' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:147: warning: redefinition of '_FPDIV'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:386: warning: previous definition of '_FPDIV' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:148: warning: redefinition of '_FPMULT'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:387: warning: previous definition of '_FPMULT' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:149: warning: redefinition of '_OP1EXOP4'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:472: warning: previous definition of '_OP1EXOP4' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:150: warning: redefinition of '_OP1SET0'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:476: warning: previous definition of '_OP1SET0' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:151: warning: redefinition of '_OP3SET2'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:505: warning: previous definition of '_OP3SET2' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:152: warning: redefinition of '_POPREALO1'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:541: warning: previous definition of '_POPREALO1' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:153: warning: redefinition of '_POPREALO2'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:542: warning: previous definition of '_POPREALO2' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:154: warning: redefinition of '_POPREALO3'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:543: warning: previous definition of '_POPREALO3' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:155: warning: redefinition of '_POPREALO4'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:544: warning: previous definition of '_POPREALO4' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:156: warning: redefinition of '_POPREALO5'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:545: warning: previous definition of '_POPREALO5' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:157: warning: redefinition of '_POPREALO6'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:546: warning: previous definition of '_POPREALO6' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:158: warning: redefinition of '_OP5EXOP6'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:517: warning: previous definition of '_OP5EXOP6' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:159: warning: redefinition of '_OP5SET0'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:518: warning: previous definition of '_OP5SET0' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:160: warning: redefinition of '_CPOP1OP2'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:213: warning: previous definition of '_CPOP1OP2' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:161: warning: redefinition of '_OP3TOOP4'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:508: warning: previous definition of '_OP3TOOP4' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:162: warning: redefinition of '_OP1TOOP4'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:483: warning: previous definition of '_OP1TOOP4' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:163: warning: redefinition of '_OP2TOOP4'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:500: warning: previous definition of '_OP2TOOP4' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:164: warning: redefinition of '_OP4TOOP2'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:513: warning: previous definition of '_OP4TOOP2' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:165: warning: redefinition of '_OP3TOOP2'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:507: warning: previous definition of '_OP3TOOP2' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:166: warning: redefinition of '_OP1TOOP3'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:482: warning: previous definition of '_OP1TOOP3' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:167: warning: redefinition of '_OP5TOOP2'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:520: warning: previous definition of '_OP5TOOP2' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:168: warning: redefinition of '_OP5TOOP6'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:523: warning: previous definition of '_OP5TOOP6' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:169: warning: redefinition of '_OP5TOOP4'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:522: warning: previous definition of '_OP5TOOP4' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:170: warning: redefinition of '_OP1TOOP2'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:481: warning: previous definition of '_OP1TOOP2' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:171: warning: redefinition of '_OP6TOOP2'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:525: warning: previous definition of '_OP6TOOP2' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:172: warning: redefinition of '_OP6TOOP1'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:524: warning: previous definition of '_OP6TOOP1' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:173: warning: redefinition of '_OP4TOOP1'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:512: warning: previous definition of '_OP4TOOP1' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:174: warning: redefinition of '_OP5TOOP1'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:519: warning: previous definition of '_OP5TOOP1' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:175: warning: redefinition of '_OP3TOOP1'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:506: warning: previous definition of '_OP3TOOP1' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:176: warning: redefinition of '_OP6TOOP5'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:526: warning: previous definition of '_OP6TOOP5' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:177: warning: redefinition of '_OP4TOOP5'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:515: warning: previous definition of '_OP4TOOP5' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:178: warning: redefinition of '_OP3TOOP5'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:509: warning: previous definition of '_OP3TOOP5' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:179: warning: redefinition of '_OP2TOOP5'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:501: warning: previous definition of '_OP2TOOP5' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:180: warning: redefinition of '_OP2TOOP6'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:502: warning: previous definition of '_OP2TOOP6' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:181: warning: redefinition of '_OP1TOOP6'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:485: warning: previous definition of '_OP1TOOP6' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:182: warning: redefinition of '_OP1TOOP5'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:484: warning: previous definition of '_OP1TOOP5' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:183: warning: redefinition of '_OP2TOOP1'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:498: warning: previous definition of '_OP2TOOP1' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:184: warning: redefinition of '_OP2TOOP3'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:499: warning: previous definition of '_OP2TOOP3' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:185: warning: redefinition of '_OP4TOOP3'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:514: warning: previous definition of '_OP4TOOP3' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:186: warning: redefinition of '_OP5TOOP3'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:521: warning: previous definition of '_OP5TOOP3' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:187: warning: redefinition of '_OP4TOOP6'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:516: warning: previous definition of '_OP4TOOP6' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:188: warning: redefinition of '_OP1SET1'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:477: warning: previous definition of '_OP1SET1' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:189: warning: redefinition of '_OP1SET2'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:478: warning: previous definition of '_OP1SET2' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:190: warning: redefinition of '_OP1SET3'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:479: warning: previous definition of '_OP1SET3' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:191: warning: redefinition of '_OP1SET4'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:480: warning: previous definition of '_OP1SET4' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:192: warning: redefinition of '_PUSHOP1'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:551: warning: previous definition of '_PUSHOP1' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:193: warning: redefinition of '_POPOP1'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:537: warning: previous definition of '_POPOP1' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:194: warning: redefinition of '_ARC_UNARC'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:139: warning: previous definition of '_ARC_UNARC' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:195: warning: redefinition of '_SIN'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:614: warning: previous definition of '_SIN' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:196: warning: redefinition of '_ZEROOP1'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:672: warning: previous definition of '_ZEROOP1' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:197: warning: redefinition of '_ZEROOP2'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:673: warning: previous definition of '_ZEROOP2' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:198: warning: redefinition of '_ZEROOP3'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:674: warning: previous definition of '_ZEROOP3' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:199: warning: redefinition of '_SETXXOP1'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:610: warning: previous definition of '_SETXXOP1' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:200: warning: redefinition of '_SETXXOP2'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:611: warning: previous definition of '_SETXXOP2' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:201: warning: redefinition of '_SETXXXXOP2'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:612: warning: previous definition of '_SETXXXXOP2' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:202: warning: redefinition of '_DISPOP1A'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:315: warning: previous definition of '_DISPOP1A' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:203: warning: redefinition of '_MOV9TOOP1'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:462: warning: previous definition of '_MOV9TOOP1' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:204: warning: redefinition of '_DELVARARC'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:306: warning: previous definition of '_DELVARARC' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:205: warning: redefinition of 'PTEMP'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:979: warning: previous definition of 'PTEMP' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:208: warning: redefinition of 'TRIGDEG'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1047: warning: previous definition of 'TRIGDEG' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:210: warning: redefinition of 'PLOTFLAGS'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1067: warning: previous definition of 'PLOTFLAGS' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:211: warning: redefinition of 'PLOTLOC'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1068: warning: previous definition of 'PLOTLOC' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:212: warning: redefinition of 'PLOTDISP'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1069: warning: previous definition of 'PLOTDISP' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:214: warning: redefinition of 'GRFMODEFLAGS'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1072: warning: previous definition of 'GRFMODEFLAGS' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:215: warning: redefinition of 'GRFFUNCM'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1073: warning: previous definition of 'GRFFUNCM' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:216: warning: redefinition of 'GRFPOLARM'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1074: warning: previous definition of 'GRFPOLARM' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:217: warning: redefinition of 'GRFPARAMM'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1075: warning: previous definition of 'GRFPARAMM' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:218: warning: redefinition of 'GRFRECURM'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1076: warning: previous definition of 'GRFRECURM' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:220: warning: redefinition of 'GRAPHFLAGS'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1078: warning: previous definition of 'GRAPHFLAGS' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:224: warning: redefinition of 'GRFDBFLAGS'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1081: warning: previous definition of 'GRFDBFLAGS' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:226: warning: redefinition of 'GRFSIMUL'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1083: warning: previous definition of 'GRFSIMUL' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:227: warning: redefinition of 'GRFGRID'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1084: warning: previous definition of 'GRFGRID' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:228: warning: redefinition of 'GRFPOLAR'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1085: warning: previous definition of 'GRFPOLAR' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:229: warning: redefinition of 'GRFNOCOORD'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1086: warning: previous definition of 'GRFNOCOORD' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:230: warning: redefinition of 'GRFNOAXIS'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1087: warning: previous definition of 'GRFNOAXIS' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:231: warning: redefinition of 'GRFLABEL'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1088: warning: previous definition of 'GRFLABEL' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:233: warning: redefinition of 'TEXTFLAGS'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1090: warning: previous definition of 'TEXTFLAGS' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:234: warning: redefinition of 'TEXTERASEBELOW'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1091: warning: previous definition of 'TEXTERASEBELOW' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:235: warning: redefinition of 'TEXTSCROLLED'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1092: warning: previous definition of 'TEXTSCROLLED' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:236: warning: redefinition of 'TEXTINVERSE'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1093: warning: previous definition of 'TEXTINVERSE' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:238: warning: redefinition of 'ONFLAGS'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1109: warning: previous definition of 'ONFLAGS' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:239: warning: redefinition of 'ONRUNNING'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1110: warning: previous definition of 'ONRUNNING' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:240: warning: redefinition of 'ONINTERRUPT'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1111: warning: previous definition of 'ONINTERRUPT' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:242: warning: redefinition of 'STATFLAGS'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1113: warning: previous definition of 'STATFLAGS' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:243: warning: redefinition of 'STATSVALID'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1114: warning: previous definition of 'STATSVALID' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:245: warning: redefinition of 'FMTFLAGS'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1118: warning: previous definition of 'FMTFLAGS' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:247: warning: redefinition of 'FMTENG'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1120: warning: previous definition of 'FMTENG' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:249: warning: redefinition of 'NUMMODE'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1125: warning: previous definition of 'NUMMODE' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:250: warning: redefinition of 'FMTREAL'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1126: warning: previous definition of 'FMTREAL' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:251: warning: redefinition of 'FMTRECT'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1127: warning: previous definition of 'FMTRECT' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:252: warning: redefinition of 'FMTPOLAR'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1128: warning: previous definition of 'FMTPOLAR' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:254: warning: redefinition of 'CURFLAGS'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1149: warning: previous definition of 'CURFLAGS' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:255: warning: redefinition of 'CURABLE'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1150: warning: previous definition of 'CURABLE' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:256: warning: redefinition of 'CURON'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1151: warning: previous definition of 'CURON' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:257: warning: redefinition of 'CURLOCK'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1152: warning: previous definition of 'CURLOCK' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:259: warning: redefinition of 'APPFLAGS'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1154: warning: previous definition of 'APPFLAGS' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:260: warning: redefinition of 'APPTEXTSAVE'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1156: warning: previous definition of 'APPTEXTSAVE' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:261: warning: redefinition of 'APPAUTOSCROLL'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1157: warning: previous definition of 'APPAUTOSCROLL' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:267: warning: redefinition of 'INDICFLAGS'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1187: warning: previous definition of 'INDICFLAGS' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:269: warning: redefinition of 'INDICONLY'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1190: warning: previous definition of 'INDICONLY' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:271: warning: redefinition of 'SHIFTFLAGS'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1192: warning: previous definition of 'SHIFTFLAGS' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:272: warning: redefinition of 'SHIFT2ND'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1193: warning: previous definition of 'SHIFT2ND' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:273: warning: redefinition of 'SHIFTALPHA'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1194: warning: previous definition of 'SHIFTALPHA' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:274: warning: redefinition of 'SHIFTALOCK'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1196: warning: previous definition of 'SHIFTALOCK' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:276: warning: redefinition of 'TBLFLAGS'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1200: warning: previous definition of 'TBLFLAGS' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:277: warning: redefinition of 'AUTOFILL'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1201: warning: previous definition of 'AUTOFILL' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:278: warning: redefinition of 'AUTOCALC'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1202: warning: previous definition of 'AUTOCALC' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:280: warning: redefinition of 'SGRFLAGS'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1205: warning: previous definition of 'SGRFLAGS' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:282: warning: redefinition of 'VERTSPLIT'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1207: warning: previous definition of 'VERTSPLIT' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:283: warning: redefinition of 'WRITE_ON_GRAPH'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1210: warning: previous definition of 'WRITE_ON_GRAPH' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:284: warning: redefinition of 'TEXTWRITE'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1213: warning: previous definition of 'TEXTWRITE' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:286: warning: redefinition of 'ASM_FLAG1'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1242: warning: previous definition of 'ASM_FLAG1' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:296: warning: redefinition of 'ASM_FLAG2'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1243: warning: previous definition of 'ASM_FLAG2' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:306: warning: redefinition of 'ASM_FLAG3'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:1244: warning: previous definition of 'ASM_FLAG3' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:360: warning: redefinition of '_CLRLCDFULL'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:191: warning: previous definition of '_CLRLCDFULL' was here
+C:/Users/Memesdudeguy/Desktop/dcs7.inc:361: warning: redefinition of '_JFORCECMDNOCHAR'
+C:/Users/Memesdudeguy/Desktop/ti83plus.inc:432: warning: previous definition of '_JFORCECMDNOCHAR' was here
+C:/Users/Memesdudeguy/Desktop/usb8x.inc:187: warning: redefinition of 'DESCCONFIG'
+C:/Users/Memesdudeguy/Desktop/usb8x.inc:25: warning: previous definition of 'DESCCONFIG' was here
+C:/Users/Memesdudeguy/Desktop/usb8x.inc:188: warning: redefinition of 'DESCSTRING'
+C:/Users/Memesdudeguy/Desktop/usb8x.inc:26: warning: previous definition of 'DESCSTRING' was here
+Pass two...
+Assembly time: 0.182 seconds
